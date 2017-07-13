@@ -1,3 +1,6 @@
+# Purpose
+Exercise that concurrently reassembles byte packets and persists data to disk. Not meant for production, this is a POC.
+
 # Design
 
 I designed this system in two discrete parts. The first part is the consumer written
